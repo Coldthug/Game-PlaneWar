@@ -1,0 +1,3 @@
+﻿  main.cpp
+F:\resources\QT-project\QT-learn\aircraft-war-master\main.cpp(41,22): warning C4018: “>”: 有符号/无符号不匹配
+  plane.vcxproj -> F:\resources\QT-project\QT-learn\aircraft-war-master\Debug\plane.exe
